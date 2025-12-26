@@ -40,7 +40,7 @@ Validating data types (numbers vs text)
 
 Using tools such as Microsoft Excel, I applied techniques like filtering, conditional formatting, and basic formulas to improve data accuracy. These steps significantly reduced errors before analysis began.
 
-Basic Data Analysis Techniques
+Basic Data Analysis Techniques.
 
 After cleaning the data, simple analysis methods can provide meaningful insights:
 
